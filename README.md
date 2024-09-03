@@ -1,6 +1,6 @@
 # DESENVOLVIDO POR otavin1.bsky.social
 
-## Amo a comunidade cronicamente online, espero que se divirtam tanto como eu me diverti
+Amo a comunidade cronicamente online, espero que se divirtam tanto como eu me diverti
 
 # Configurações iniciais
 
