@@ -14,7 +14,7 @@ load_dotenv()
 
 # Configurações
 twitter_username = os.getenv('TWITTER_USERNAME')
-bluesky_handle = os.getenv('BLUESKY_USERNAME')
+bluesky_handle = os.getenv('BLUESKY_HANDLE')
 bluesky_password = os.getenv('BLUESKY_PASSWORD')
 nitter_instance = os.getenv('NITTER_INSTANCE')
 posted_file = 'posted_tweets.json'
