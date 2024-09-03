@@ -37,9 +37,9 @@ Para a criação do bot do pépito, eu optei por utilizar headers na página do 
 
 Aqui você deve abrir o arquivo .env e colocar as informações lá
 
-BLUESKY_HANDLE=conta_destino
-BLUESKY_PASSWORD=Senha_conta_destino
-TWITTER_USERNAME=Conta_twitter_importar
-NITTER_INSTANCE=https://nitter.lucabased.xyz
+- BLUESKY_HANDLE=conta_destino
+- BLUESKY_PASSWORD=Senha_conta_destino
+- TWITTER_USERNAME=Conta_twitter_importar
+- NITTER_INSTANCE=https://nitter.lucabased.xyz
 
 - Só mude o Nitter instance caso necessário, a atual funciona bem
