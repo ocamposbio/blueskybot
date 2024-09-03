@@ -1,9 +1,0 @@
-# Ignorar o arquivo de credenciais.env
-
-# Ignorar arquivos de cache do Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Ignorar outros arquivos indesejados
-*.log
